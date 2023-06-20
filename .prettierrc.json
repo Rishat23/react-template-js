@@ -16,8 +16,6 @@
   "useTabs": true,
 	"importOrder": [
 		"<THIRD_PARTY_MODULES>",
-		"^(ui)",
-		"^components/(.*)$",
 		"^[./]"
 	],
 	"importOrderSeparation": true,
